@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #111;
+  color: white;
+}
+
+div {
+  background: #222;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+}
